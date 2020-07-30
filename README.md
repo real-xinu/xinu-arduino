@@ -1,7 +1,7 @@
-xinu-avr
-========
+xinu-arduino
+============
 
-The **xinu-avr** project is a **Xinu Operating System** subset, modified to run on an AVR atmega328p microcontroller (e.g. Arduino boards).  
+The **xinu-arduino** project is a **Xinu Operating System** subset, modified to run on an AVR atmega328p microcontroller (e.g. Arduino boards).  
 
 [Visit its Web Page for detailed instructions.](http://se.fi.uncoma.edu.ar/xinu-avr/)
 
